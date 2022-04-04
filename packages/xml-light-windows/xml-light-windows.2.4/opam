@@ -1,5 +1,5 @@
 opam-version: "2.0"
-maintainer: "https://github.com/ocaml/opam-repository/issues"
+maintainer: "https://github.com/jrrk2/xml-light-windows/issues"
 remove: ["ocamlfind" "remove" "xml-light-windows"]
 depends: ["ocaml" "ocamlfind" "ocaml-windows"]
 dev-repo: "git+https://github.com/ncannasse/xml-light"
@@ -12,6 +12,6 @@ support also DTD parsing and checking, and is entirely written in
 OCaml, hence it does not require additional C library."""
 flags: light-uninstall
 url {
-  src: "https://github.com/ncannasse/xml-light/archive/2.4.tar.gz"
-  checksum: "md5=fe55697c13e867ced31ec79d5e33c7de"
+  src: "https://github.com/jrrk2/xml-light-windows/archive/refs/heads/master.zip"
+  checksum: "md5=5439a742ba02f18a42cda5756f165864"
 }
