@@ -49,7 +49,7 @@ url {
   src:
     "https://github.com/jrrk2/ocaml-cohttp/archive/refs/heads/master.zip"
   checksum: [
-    "sha256=5dead713e462b6e8cca48ccfbfd722f67a07b104463c962304ab2e497abcf2cd"
+    "sha256=3bdf9fd14a903ea381215690c6fc2ed89e198ed8a01e5c2fbbaadb1a582815fc"
   ]
 }
 x-commit-hash: "5f9c0ae88a69e4280810fe73344367e90954dea5"
