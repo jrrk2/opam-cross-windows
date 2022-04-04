@@ -2,7 +2,7 @@ opam-version: "2.0"
 maintainer: "https://github.com/jrrk2/xml-light-windows/issues"
 remove: ["ocamlfind" "remove" "xml-light-windows"]
 depends: ["ocaml" "ocamlfind" "ocaml-windows"]
-dev-repo: "git+https://github.com/ncannasse/xml-light"
+dev-repo: "git+https://github.com/jrrk2/xml-light-windows"
 install: [make "install_ocamlfind"]
 synopsis: "Xml-Light is a minimal XML parser & printer for OCaml"
 description: """
@@ -13,5 +13,5 @@ OCaml, hence it does not require additional C library."""
 flags: light-uninstall
 url {
   src: "https://github.com/jrrk2/xml-light-windows/archive/refs/heads/master.zip"
-  checksum: "md5=5439a742ba02f18a42cda5756f165864"
+  checksum: "md5=1ad6595696bba8e7759fa2124f9d5665"
 }
